@@ -1,0 +1,53 @@
+.title-booking {
+	color: #FFC000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.booking {
+	background-color: #212529;
+	padding-bottom: 20px;
+}
+
+.booking form {
+	padding: 50px;
+	padding-bottom: 0px;
+}
+
+.booking label {
+	color: #FFC000;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#booking {
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 30px;
+	background-color: #c4394e !important;
+	color: #343a40 !important;
+}
+
+.booking a:hover , .seat-part a:hover{
+	color: #212529 !important;
+}
+
+.choose-seat {
+	margin: 50px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	background-color: white;
+}
+
+.group-seat {
+	padding: 5px;
+	font-weight: bold;
+	color: black;
+}
+
+.seat-part button {
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #c4394e !important;
+	color: #343a40 !important;	
+}

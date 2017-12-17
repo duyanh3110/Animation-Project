@@ -1,0 +1,31 @@
+.title-schedule {
+	color: #FFC000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.tab-content {
+	margin-top: 20px;
+}
+
+.movie-name {
+	margin: 5px;
+}
+
+.movie-name a {
+	color: #FF4040;
+    font-weight: bold;
+}
+
+.movie-name a:hover {
+	color: #FF4040;
+}
+
+.city {
+	vertical-align: middle!important;
+	color: #f39c12;
+}
+
+table td {
+	color: lightgray;
+}

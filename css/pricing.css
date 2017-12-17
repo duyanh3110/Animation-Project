@@ -1,0 +1,56 @@
+.title-pricing {
+	color: #FFC000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.price-part {
+	background-color: #212529;
+	color: white;
+}
+
+.price-table {
+	padding: 20px;
+	margin: 20px;
+	border: 5px solid #343a40;
+	transition: border 0.5s ease-in;
+}
+
+.price-table:hover {
+	border: 5px solid #c4394e;
+}
+
+.table-price-heading {
+	font-size: 25px;
+	letter-spacing: 0.1rem;
+}
+
+.price {
+	font-size: 42px;
+    font-weight: 700;
+    color: #c4394e;
+}
+
+.pricing-item {
+	padding: 20px 0;
+}
+
+.btn-pricing {
+	background-color: #212529;
+	color: white;
+}
+
+.btn-pricing:hover {
+	background-color: #c4394e;
+}
+
+.pricing-button a , .pricing-button a:hover{
+	color: #fff;
+    letter-spacing: 0.1rem;
+    padding: 12px 55px;
+}
+
+.pricing-button a {
+	border: 3px solid #343a40;
+	border-radius: 10px;
+}

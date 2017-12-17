@@ -1,0 +1,28 @@
+.title-checkout {
+	color: #FFC000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.payment-part {
+	background-color: #212529;
+	padding: 10px;
+}
+
+#payment-method {
+	padding: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-style: italic;
+}
+
+.btn-order {
+	color: white;
+    background-color: #c4394e;
+    border-color: #c4394e;
+}
+
+.button-complete a:hover {
+	color: white;
+}

@@ -1,0 +1,24 @@
+.title-cinema {
+	color: #FFC000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#helsinki, #turku, #tampere, #oulu, #rovaniemi {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#img-screen {
+	 color: #212529!important;
+	 margin-top: 10px;
+	 margin-bottom: 10px;
+}
+
+#cinema-city {
+	padding: 50px;
+}
+
+#cinema-address {
+	color: lightgray;
+}

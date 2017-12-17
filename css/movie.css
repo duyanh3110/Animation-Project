@@ -1,0 +1,37 @@
+.title-schedule {
+	color: #FFC000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.movie-content a{
+	font-weight: bold;
+}
+
+/* Now movie information */
+.film {
+	margin-top: 20px;
+}
+
+.information-trailer {
+	background-color: #212529;
+	padding: 50px;
+}
+
+.information-trailer h3 {
+	color: #FF4040;
+    font-weight: bold;
+}
+
+.information-trailer p {
+	color: lightgray;
+}
+
+.button-film {
+	background-color: #4080C0 !important;
+	color: #212529 !important;
+}
+
+.modal-body {
+	background-color: #343a40;
+}
